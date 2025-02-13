@@ -29,7 +29,7 @@ I’m eager to contribute to **open-source DevOps projects**, collaborate on **c
 ## 📫 Connect with Me
 💼 [LinkedIn](www.linkedin.com/in/pilladi-chitti-satya-venkata-naga-padmakar/)  
 📧 [Email](padmakarpilladi@gmail.com)  
-🚀 [GitHub](https://github.com/yourusername)  
+🚀 [GitHub](https://github.com/Padmakar-Pilladi)  
 
 ---
 
