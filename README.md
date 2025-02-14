@@ -1,4 +1,4 @@
-# Hi, I'm Padmakar Pilladi Chitti Satya Venkata Naga! 👋
+# Hi, I'm Padmakar Pilladi! 👋
 
 ## About Me 🚀
 # 🚀 DevOps Engineer | Cloud & Automation Enthusiast
