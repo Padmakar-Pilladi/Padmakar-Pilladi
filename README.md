@@ -17,6 +17,8 @@ As a DevOps Engineer, I specialize in **AWS, Linux, Shell Scripting, Jenkins, Do
 - **Containerization & Orchestration**: Docker, Kubernetes
 - **Infrastructure as Code (IaC)**: Terraform
 - **OS & Configuration Management**: Linux, Ansible
+- **Monitoring & Security**: Prometheus, Grafana, Nagios, Trivy (Image Scanning)
+- **Agile Project Management**: JIRA, ServiceNow
 
 ## 📌 Currently Exploring
 ✔ Advanced Kubernetes concepts & Helm Charts  
